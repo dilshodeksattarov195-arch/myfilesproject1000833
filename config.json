@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderdncrypt",
+        "uuid": 8049279,
+        "checksum": "ui39lc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
